@@ -1,3 +1,5 @@
 # MLApp
 
 # Python
+# Pandas 
+# Numpy
